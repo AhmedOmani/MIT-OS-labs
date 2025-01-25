@@ -9,9 +9,8 @@ The course materials, including the schedule and lab assignments, can be found o
 
 ## Purpose
 
-This repository is intended for **educational purposes only**. The solutions provided here are my own work and are meant to help others understand the concepts covered in the course. 
+This repository is intended solely for educational purposes and to document my learning process. These solutions are **not intended to assist others in completing their assignments**.
 
----
 
 ## Installation
 
